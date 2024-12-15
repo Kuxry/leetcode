@@ -631,9 +631,17 @@ void fun2(int n){
 
 
 int age =0;
-//实例化；
-struct Stu s1 = {"张三" ， 20， "男" ， "20180」
-struct Stu a2 = {"张四" ， 20， "男" ， "20180」
+//实例化；具体化。虚类，实类。
+//抽象类。具体类。
+struct Stu s1 = {"张三" ， 20， "男" ， "20180"}
+struct Stu a2 = {"张四" ， 20， "男" ， "20180"}
+
+
+
+
+char name[20] = "张三
+int age = 18;
+
 
 //update
 //new
