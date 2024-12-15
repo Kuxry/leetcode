@@ -634,3 +634,5 @@ int age =0;
 //实例化；
 struct Stu s1 = {"张三" ， 20， "男" ， "20180」
 struct Stu a2 = {"张四" ， 20， "男" ， "20180」
+
+//update
