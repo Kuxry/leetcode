@@ -638,3 +638,4 @@ struct Stu a2 = {"张四" ， 20， "男" ， "20180」
 //update
 //new
 //delete
+//new
