@@ -1,15 +1,4 @@
-#include <vector>
-using namespace std;
 
-
-// 思路：
-// 1. 遍历数组，计算当前差值和前一对差值
-// 2. 如果当前差值和前一对差值的符号相反，则计数器加1
-// 3. 返回计数器
-// 4. 特殊情况：如果数组长度小于等于1，则返回数组长度
-
-
-// 版本一
 class Solution {
 public:
     int wiggleMaxLength(vector<int>& nums) {
